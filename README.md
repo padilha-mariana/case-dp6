@@ -1,0 +1,2 @@
+# case-dp6
+Teste técnico de tagueamento para a DP6, onde tem os diparos de page_view (allpages), evento de clique e formulários.
