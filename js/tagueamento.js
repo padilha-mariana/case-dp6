@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.querySelectorAll('.card-montadoras').forEach(card => {
       card.addEventListener('click', () => {
         sendEvent('click', {
-          element_name: card.dataset.name || card.dataset.id,
+          element_name: card.dataset.id,
           element_group: 'ver_mais'
         });
       });
